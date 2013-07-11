@@ -24,7 +24,7 @@ Usage
 Here is an example.
 
 ~~~ scala
-import de.vorb.data.Dyn
+import de.vorb.data.immutable.Dyn
 
 val document = Map(
   "title" -> "Document title",
